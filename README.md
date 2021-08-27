@@ -1,5 +1,5 @@
 # Hello ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">
-Hi! My name is Rodrigo Hisashi, I'm 20 years old from **Brazil** and since I took a course on python programming last year, I've become more interested in computer science. I'm currently in the Bachelor of Science and Technology course, and also studying courses on programming.
+Hi! My name is Rodrigo Hisashi, I'm 21 years old from **Brazil** and since I took a course on python programming last year, I've become more interested in computer science. I'm currently in the Bachelor of Science and Technology course, and also studying courses on programming.
 ## Status
 
 <p align = center>
